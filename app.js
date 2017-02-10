@@ -1,3 +1,3 @@
-var car = require("cat-me");
+var cat = require("cat-me");
 
 console.log(cat());
